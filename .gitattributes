@@ -4,3 +4,4 @@
 *.dll filter=lfs diff=lfs merge=lfs -text
 Main.dist/*.dll filter=lfs diff=lfs merge=lfs -text
 Main.exe filter=lfs diff=lfs merge=lfs -text
+*.dist filter=lfs diff=lfs merge=lfs -text
