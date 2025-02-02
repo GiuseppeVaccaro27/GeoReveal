@@ -1,0 +1,16 @@
+*.exe filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
+*.png filter=lfs diff=lfs merge=lfs -text
+*.pyd filter=lfs diff=lfs merge=lfs -text
+*.dll filter=lfs diff=lfs merge=lfs -text
+Main.dist/*.dll filter=lfs diff=lfs merge=lfs -text
+Main.exe filter=lfs diff=lfs merge=lfs -text
+*.dist filter=lfs diff=lfs merge=lfs -text
+=======
+*.dll filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 00d3abd13c695f5a49592b0ca6c71ed8dd1618fb
+C:/Users/giuse/Desktop/Tesi/Codice_App_BACKUP filter=lfs diff=lfs merge=lfs -text
+main.py filter=lfs diff=lfs merge=lfs -text
+chat.py filter=lfs diff=lfs merge=lfs -text
+metautils.py filter=lfs diff=lfs merge=lfs -text
+metadata_utils.py filter=lfs diff=lfs merge=lfs -text
